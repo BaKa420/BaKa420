@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uvaish Bakaliya</h1>
-<h3 align="center">A college student majoring in Computer Science.</h3>
+<h3 align="center">A College Student Majoring In Computer Science.</h3>
 
 - 🌱 I’m currently learning "C" **Course**
 
