@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uvaish Bakaliya</h1>
 <h3 align="center">A college student majoring in Computer Science.</h3>
 
-- 🔭 I’m currently working on personal project. **Do you know me!**
-
 - 🌱 I’m currently learning "C" **Course**
 
 - 👨‍💻 All of my projects are available at by github. [https://github.com/ubaka2](https://github.com/ubaka2)
