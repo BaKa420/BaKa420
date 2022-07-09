@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uvaish Bakaliya</h1>
 <h3 align="center">A College Student Majoring In Computer Science.</h3>
 
-- 🌱 I’m currently learning "C" **Course**
+- 🌱 I’m currently learning "C" and Node.js **Course**
 
 - 👨‍💻 All of my projects are available at by github. [https://github.com/ubaka2](https://github.com/ubaka2)
 
