@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uvaish Bakaliya</h1>
 <h3 align="center">A University Student With a Computer Science Major.</h3>
 
+- 💻 My Portfolio website: [https://ubakaliya-portfolio.netlify.app/](https://ubakaliya-portfolio.netlify.app/)
 
 - 👨‍💻 All of my projects are available at by gitHub. [https://github.com/ubaka2](https://github.com/ubaka2)
 
@@ -9,6 +10,7 @@
 - 📫 How to reach me LinkedIn, email. **ubaka2@uic.edu, https://www.linkedin.com/in/uvaish-bakaliya-416918223/**
 
 - ⚡ Fun fact **I enjoy exercising five days a week.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
