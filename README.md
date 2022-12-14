@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uvaish Bakaliya</h1>
-<h3 align="center">A university student with a computer science major.</h3>
+<h3 align="center">A University Student With a Computer Science Major.</h3>
 
 
 - 👨‍💻 All of my projects are available at by gitHub. [https://github.com/ubaka2](https://github.com/ubaka2)
