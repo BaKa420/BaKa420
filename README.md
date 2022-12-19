@@ -3,7 +3,7 @@
 
 - 💻 My Portfolio website: [https://ubakaliya-portfolio.netlify.app/](https://ubakaliya-portfolio.netlify.app/)
 
-- 👨‍💻 All of my projects are available at by gitHub. [https://github.com/ubaka2](https://github.com/ubaka2)
+- 👨‍💻 All of my projects are available at by GitHub(HERE). [https://github.com/ubaka2](https://github.com/ubaka2)
 
 - 💬 Ask me about anything related to tech. **C++, Python, HTML & CSS**
 
