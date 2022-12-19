@@ -9,8 +9,6 @@
 
 - 📫 How to reach me LinkedIn, email. **uvaishbakaliya@gmail.com, https://www.linkedin.com/in/uvaishbakaliya/**
 
-- ⚡ Fun fact **I enjoy exercising five days a week.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
