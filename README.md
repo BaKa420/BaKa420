@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything related to tech. **C++, Python, HTML & CSS**
 
-- 📫 How to reach me LinkedIn, email. **uvaishbakaliya@gmail.com, https://www.linkedin.com/in/uvaish-bakaliya-416918223/**
+- 📫 How to reach me LinkedIn, email. **uvaishbakaliya@gmail.com, https://www.linkedin.com/in/uvaishbakaliya/**
 
 - ⚡ Fun fact **I enjoy exercising five days a week.**
 
