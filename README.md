@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at by GitHub(HERE). [https://github.com/ubaka2](https://github.com/ubaka2)
 
-- 💬 Ask me about anything related to tech. **C++, Python, HTML & CSS**
+- 💬 Ask me about anything related to tech. **C++, Java, Python, HTML & CSS, JavaScript, Flask**
 
 - 📫 How to reach me LinkedIn, email. **uvaishbakaliya@gmail.com, https://www.linkedin.com/in/uvaishbakaliya/**
 
