@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uvaish Bakaliya</h1>
 <h3 align="center">A University Student With a Computer Science Major.</h3>
 
-- 💻 My Portfolio website: [https://ubakaliya-portfolio.netlify.app/](https://ubakaliya-portfolio.netlify.app/)
+- 💻 My Portfolio website: [Netlify](https://ubakaliya-portfolio.netlify.app/)
 
-- 👨‍💻 All of my projects are available at by GitHub(HERE). [https://github.com/ubaka2](https://github.com/ubaka2)
+- 👨‍💻 All of my projects are available at by GitHub(HERE). [Github](https://github.com/UBakaliya)
 
 - 💬 Ask me about anything related to tech. **C++, Java, Python, HTML & CSS, JavaScript, Flask**
 
