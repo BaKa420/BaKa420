@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently full time student at University of Illinois at Chicago, completing my bachelors in computer science and engineering.
+.<br>👯 I'm looking to collaborate on web development, mobile app and Java GUI project<br>🌱 I’m currently learning database.<br>💬 Ask me any questions you may have concerning technology. I will answer them as best I can..<br>⚡ Fun fact The word "nerd" was first coined by Dr. Seuss in his book "If I Ran the Zoo."
 
 
 ## 🌐 Socials:
