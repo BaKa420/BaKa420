@@ -10,12 +10,12 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=UBakaliya&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UBakaliya&theme=dark&hide_border=true) -->
-
-<p >
+![](https://github-readme-streak-stats.herokuapp.com/?user=UBakaliya&theme=dark&hide_border=true&width=500&height=200)
+<!-- <p >
   <img src="https://github-readme-stats.vercel.app/api?username=UBakaliya&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UBakaliya&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
+ -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UBakaliya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
