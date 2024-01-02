@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently full time student at University of Illinois at Chicago, completing my bachelors in computer science and engineering.
+I'm currently full time student at University of Illinois at Chicago, completing my bachelors in computer science and engineering.
 
 
 ## 🌐 Socials:
